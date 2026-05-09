@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="750" viewBox="0 0 1200 750" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Study time estimator thumbnail</title>
+  <desc id="desc">Login panel preview for the Study time estimator project.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#EEF4FF"/>
+      <stop offset="100%" stop-color="#E6F8F2"/>
+    </linearGradient>
+    <linearGradient id="left" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1E4FA1"/>
+      <stop offset="100%" stop-color="#146E7D"/>
+    </linearGradient>
+    <linearGradient id="btn" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#255BDA"/>
+      <stop offset="100%" stop-color="#1F7AE0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="750" fill="url(#bg)"/>
+
+  <rect x="184" y="82" width="832" height="586" rx="34" fill="#F9FCFF" stroke="#CFE0EF" stroke-width="2"/>
+  <rect x="184" y="82" width="272" height="586" rx="34" fill="url(#left)"/>
+
+  <text x="236" y="176" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" letter-spacing="0.7">STUDY PLANNER</text>
+  <text x="236" y="236" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="38" font-weight="700">Study time</text>
+  <text x="236" y="278" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="38" font-weight="700">estimator</text>
+  <text x="236" y="338" fill="#D7E8FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="500">Plan better,</text>
+  <text x="236" y="372" fill="#D7E8FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="500">study smarter.</text>
+
+  <circle cx="318" cy="572" r="48" fill="#FFFFFF" fill-opacity="0.16"/>
+  <circle cx="318" cy="572" r="30" fill="#FFFFFF" fill-opacity="0.22"/>
+
+  <text x="508" y="178" fill="#1A335F" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="44" font-weight="700">Welcome</text>
+  <text x="508" y="218" fill="#4A5F84" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="23" font-weight="500">Sign in to access your planner</text>
+
+  <text x="508" y="296" fill="#1E3C68" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="27" font-weight="700">Username</text>
+  <rect x="508" y="312" width="456" height="62" rx="16" fill="#FFFFFF" stroke="#CCD9EA" stroke-width="2"/>
+  <text x="536" y="352" fill="#7C8FAE" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="500">Enter your username</text>
+
+  <text x="508" y="420" fill="#1E3C68" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="27" font-weight="700">Password</text>
+  <rect x="508" y="436" width="456" height="62" rx="16" fill="#FFFFFF" stroke="#CCD9EA" stroke-width="2"/>
+  <text x="536" y="476" fill="#7C8FAE" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="500">Enter your password</text>
+
+  <rect x="508" y="536" width="456" height="70" rx="18" fill="url(#btn)"/>
+  <text x="707" y="581" text-anchor="middle" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="30" font-weight="700">Sign In</text>
+</svg>

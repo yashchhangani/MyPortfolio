@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="750" viewBox="0 0 1200 750" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">College Attendance System Thumbnail</title>
+  <desc id="desc">Dashboard-style login preview for a college attendance system.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#E9EEF9"/>
+      <stop offset="100%" stop-color="#DEE7F5"/>
+    </linearGradient>
+    <linearGradient id="btn" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#1D4F99"/>
+      <stop offset="100%" stop-color="#147D7D"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="750" fill="url(#bg)"/>
+
+  <rect x="210" y="78" width="780" height="594" rx="36" fill="#F8FAFF" stroke="#C8D4EA" stroke-width="2"/>
+
+  <rect x="258" y="132" width="440" height="44" rx="22" fill="#E3EAF8"/>
+  <text x="478" y="160" text-anchor="middle" fill="#1B3D76" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="0.6">COLLEGE ATTENDANCE SYSTEM</text>
+
+  <text x="258" y="266" fill="#4A5F84" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="500">Student login portal</text>
+
+  <rect x="258" y="316" width="684" height="66" rx="18" fill="#FFFFFF" stroke="#CED9EB" stroke-width="2"/>
+  <text x="286" y="358" fill="#7B8DAA" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="27" font-weight="500">Username</text>
+
+  <rect x="258" y="408" width="684" height="66" rx="18" fill="#FFFFFF" stroke="#CED9EB" stroke-width="2"/>
+  <text x="286" y="450" fill="#7B8DAA" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="27" font-weight="500">Password</text>
+
+  <rect x="258" y="506" width="684" height="74" rx="20" fill="url(#btn)"/>
+  <text x="548" y="554" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="30" font-weight="700">Sign In</text>
+</svg>

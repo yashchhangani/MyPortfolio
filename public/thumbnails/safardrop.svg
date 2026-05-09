@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="750" viewBox="0 0 1200 750" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">SafarDrop Thumbnail</title>
+  <desc id="desc">Travel-based parcel delivery app dashboard preview.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#EAF4FF"/>
+      <stop offset="100%" stop-color="#DDF1EC"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2563EB"/>
+      <stop offset="100%" stop-color="#0F766E"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="750" fill="url(#bg)"/>
+
+  <rect x="170" y="70" width="860" height="610" rx="34" fill="#F9FCFF" stroke="#C9DFF0" stroke-width="2"/>
+
+  <rect x="220" y="120" width="178" height="42" rx="21" fill="#E4EEFB"/>
+  <text x="252" y="147" fill="#184071" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700">SAFARDROP</text>
+
+  <text x="220" y="220" fill="#102E57" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="54" font-weight="700">Route Match Delivery</text>
+  <text x="220" y="262" fill="#496383" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="500">Senders + travelers on the same route</text>
+
+  <rect x="220" y="310" width="390" height="148" rx="22" fill="#FFFFFF" stroke="#D3E2EF" stroke-width="2"/>
+  <text x="248" y="352" fill="#1B3F72" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">From</text>
+  <text x="248" y="385" fill="#5B7595" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="500">Pune</text>
+  <text x="248" y="426" fill="#1B3F72" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">To</text>
+  <text x="248" y="458" fill="#5B7595" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="500">Mumbai</text>
+
+  <rect x="634" y="310" width="346" height="148" rx="22" fill="#FFFFFF" stroke="#D3E2EF" stroke-width="2"/>
+  <text x="662" y="352" fill="#1B3F72" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">Traveler</text>
+  <text x="662" y="385" fill="#5B7595" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="500">Verified • 4.8★</text>
+  <text x="662" y="426" fill="#1B3F72" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">ETA</text>
+  <text x="662" y="458" fill="#5B7595" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="500">Today, 7:30 PM</text>
+
+  <path d="M324 542C430 480 560 602 710 532C772 503 828 452 896 456" stroke="#2B6DE5" stroke-width="8" stroke-linecap="round" stroke-dasharray="10 14"/>
+  <circle cx="324" cy="542" r="15" fill="#2563EB"/>
+  <circle cx="896" cy="456" r="15" fill="#0F766E"/>
+
+  <rect x="220" y="574" width="760" height="66" rx="20" fill="url(#accent)"/>
+  <text x="502" y="616" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="30" font-weight="700">Find Matching Traveler</text>
+</svg>
